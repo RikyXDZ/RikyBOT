@@ -1,0 +1,19 @@
+{
+  "Author": "Riky Ripaldo",
+  "Github": "https://github.com/RikyXDZ",
+  "Contact": "+62-85789-116608",
+  "RikyBOT": {
+    "name": "RikyBOT",
+    "type": "Whatsapp Bot",
+    "author": "Riky Ripaldo",
+    "github": "https://github.com/RikyXDZ",
+    "whatsapp": "085789116608",
+    "facebook": "https://www.facebook.com/RikyXDZ",
+    "created": "24-06-2022",
+    "device": "Android/Linux",
+    "language": "JavaScript/Nodejs"
+  },
+  "descriptions": {
+    "init": "this is bot create by riky ripaldo"
+  }
+}

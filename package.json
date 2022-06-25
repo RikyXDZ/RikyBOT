@@ -1,0 +1,29 @@
+{
+  "name": "rikybot",
+  "version": "1.0.0",
+  "description": "this is whatsapp bot for android or linux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RikyXDZ"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "keywords": [
+    "rikybot",
+    "bot",
+    "whatsapp",
+    "wabot"
+  ],
+  "author": "Riky Ripaldo",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "4.0.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
