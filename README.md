@@ -2,7 +2,7 @@
 whatsapp bot for android or linux
 
 * [`Author : Riky Ripaldo`](https://api.whatsapp.com/send?phone=6285789116608&text=Assalamualaikum%20kak%20)
-* [`Github : https://github.com/RikyXDZ`](https://github.com/RikyXDZ)
+* [`Github : RikyXDZ`](https://github.com/RikyXDZ)
 
 * Installing for Ubuntu and Termux
 ```bash
