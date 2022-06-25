@@ -21,7 +21,7 @@
     "wabot"
   ],
   "author": "Riky Ripaldo",
-  "license": "ISC",
+  "license": "Apache License 2.0",
   "dependencies": {
     "@adiwajshing/baileys": "4.0.0",
     "qrcode-terminal": "^0.12.0"
